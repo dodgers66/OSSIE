@@ -1,0 +1,6 @@
+Internet Status: Connected
+Operating System:  GNU/Linux
+IP Address:  10.0.2.15
+System uptime 4:52
+The load average is  0.25,0.53,0.53
+Free memory: 
